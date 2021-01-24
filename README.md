@@ -2,27 +2,17 @@
 
 
 <h1 align="center">I'm Brey Laude</h1>
-<h3 align="center">Junior Security Researcher & Developer</h3>
+<h3 align="center">Hacker/Security Researcher & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elnarco&label=Profile%20views&color=00ff00&style=flat-square" alt="elnarco" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elnarco" alt="elnarco" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eln4rco" target="blank"><img src="https://img.shields.io/twitter/follow/eln4rco?logo=twitter&style=for-the-badge" alt="eln4rco" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eln4rco" target="blank"><img src="https://img.shields.io/twitter/follow/eln4rco?logo=twitter&style=for-the-badge" alt="eln4rco" /></a></p>
 
-- 🔭 I’m currently working on **Source Code Warrior**
+- All projects available at [elnarco.github.io](elnarco.github.io)
 
-- 🌱 I’m currently **Computer Science**
-
-- 👨‍💻 All of my projects are available at [elnarco.github.io](elnarco.github.io)
-
-- 📝 I regularly write articles on [breylaude.blogspot.com](breylaude.blogspot.com)
-
-- 💬 Ask me about **Bug bounties, PHP, Quantum Physics, AI**
-
-- 📫 How to reach me **blaude@asu.edu**
-
-- ⚡ Fun fact **"I'm an INTJ"**
+- Contact via **blaude@asu.edu**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
