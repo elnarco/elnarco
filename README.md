@@ -11,7 +11,7 @@
 - Contact via **blaude@asu.edu**
 
 ### Blogs posts
-breylaude.blogspot.com
+[https://breylaude.blogspot.com/?m=1](breylaude.blogspot.com)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
