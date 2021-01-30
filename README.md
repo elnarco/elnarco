@@ -6,12 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/eln4rco" target="blank"><img src="https://img.shields.io/twitter/follow/eln4rco?logo=twitter&style=for-the-badge" alt="eln4rco" /></a></p>
 
-- All projects available at [elnarco.github.io](https://www.elnarco.github.io/)
+- All projects available at [elnarco.github.io](https://elnarco.github.io/)
 
 - Contact via **blaude@asu.edu**
 
 ### Blogs posts
-[breylaude.blogspot.com](https://www.breylaude.blogspot.com/?m=1)
+[breylaude.blogspot.com](https://breylaude.blogspot.com/?m=1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
